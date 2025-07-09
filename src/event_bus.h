@@ -43,4 +43,4 @@ void event_bus_publish(const Event* event);
 }
 #endif
 
-#endif /* EVENT_BUS_H */  
+#endif /* EVENT_BUS_H */
